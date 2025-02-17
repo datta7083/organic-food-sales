@@ -1,0 +1,22 @@
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.navbar-brand img {
+    height: 50px;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.btn-success {
+    background-color: #2e8b57;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #267347;
+}
